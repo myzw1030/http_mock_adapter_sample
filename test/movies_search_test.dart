@@ -34,7 +34,7 @@ void main() {
       );
       // APIクライアントを通じてデータを取得
       final result = await apiClient.fetchSearchMoviesItems('ゴジラ');
-      // 返された結果が MoviesSearchData型であることを検証
+      // レスポンスが MoviesSearchData型であることを検証
       expect(result, isA<MoviesSearchData>());
       // レスポンスデータの検証
       expect(result.results, isNotEmpty);
