@@ -1,0 +1,86 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/tWeQvXUaFoS0IP5anj7pdRsP6xF.jpg",
+      "genre_ids": [
+        53,
+        27,
+        878
+      ],
+      "id": 1678,
+      "original_language": "ja",
+      "original_title": "ゴジラ",
+      "overview": "原水爆実験の影響で、大戸島の伝説の怪獣ゴジラが復活し、東京に上陸。帝都は蹂躙され廃墟と化した。ゴジラ抹殺の手段はあるのか・・・。戦後の日本映画界に特撮怪獣映画というジャンルを築いた、記念すべきゴジラ映画第1作。核の恐怖を描いた、本多猪四郎の真摯な本編ドラマと、円谷英二のリアリズム溢れる特撮演出が絶妙のコンビネーションを見せ、「ゴジラ」の名を一躍世界に轟かせた傑作。",
+      "popularity": 56.528,
+      "poster_path": "/4uuvJdCm4Lbm4yiaKblyxUXJ467.jpg",
+      "release_date": "1954-11-03",
+      "title": "ゴジラ",
+      "video": false,
+      "vote_average": 7.602,
+      "vote_count": 832
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/inJjDhCjfhh3RtrJWBmmDqeuSYC.jpg",
+      "genre_ids": [
+        28,
+        878,
+        53
+      ],
+      "id": 399566,
+      "original_language": "en",
+      "original_title": "Godzilla vs. Kong",
+      "overview": "モンスターたちの戦いの後、特務機関モナークが巨大怪獣(タイタン)の故郷(ルーツ)の手掛かりを探る中、深海からゴジラが再び現れる。世界の危機を前にゴジラが暴れまわる原因を見いだせない人類は、キングコングを髑髏島(スカルアイランド)から連れ出し、ゴジラと対決させようとする。",
+      "popularity": 204.762,
+      "poster_path": "/rc3PdrVXcF4nzh9kTOnzqTUWZDx.jpg",
+      "release_date": "2021-03-24",
+      "title": "ゴジラvsコング",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 9241
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oAz2GaClhIQqNKSwqAVDSlY1jUj.jpg",
+      "genre_ids": [
+        878,
+        28,
+        53
+      ],
+      "id": 421467,
+      "original_language": "ja",
+      "original_title": "ゴジラ",
+      "overview": "ゴジラシリーズ第16作。ゴジラ生誕30周年記念として前作から9年振りに制作された。1975年まで制作された「昭和シリーズ」との繋がりはなく、第1作(1954年)「ゴジラ」の直接の続編としてリブートされた、俗に言う「平成シリーズ」の第1作。大黒島沖で遭難した漁船の生存者・奥村は荒れ狂う嵐の中で巨大な怪物の姿を目撃していた。奥村を救助した東都日報の牧は生物学者・林田の助言を求めるが、林田は30年前に帝都を襲撃し東京湾で葬られたゴジラが目覚めたと推測。はたしてゴジラは復活していた。ソ連原潜を沈め、静岡井浜原発に現れると放射能を吸収し海へと消えたゴジラ。だがそれは破滅へのプロローグでしかなかった。",
+      "popularity": 40.122,
+      "poster_path": "/y6INaAmwDKl94bTsSmP5WjZKhEx.jpg",
+      "release_date": "1984-12-15",
+      "title": "ゴジラ",
+      "video": false,
+      "vote_average": 7.231,
+      "vote_count": 188
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uovH5k4BAEPqXqxgwVrTtqH169g.jpg",
+      "genre_ids": [
+        878,
+        28
+      ],
+      "id": 373571,
+      "original_language": "en",
+      "original_title": "Godzilla: King of the Monsters",
+      "overview": "怪獣の研究・保護を目的とする秘密機関モナーク機関の基地を、謎の武装集団が襲撃。女性研究者のエマ・ラッセル博士と娘のマディソンが拉致される事件が発生する。モナークの芹沢は、拉致の原因はエマが研究を進めていたオルカ装置にあるとにらむ。それは怪獣と共鳴する音を発生させ、怪獣を操ることをも可能にする危険な装置だった。芹沢はかつてエマと共同でオルカ装置を研究し、夫でもあったマーク・ラッセルに助けを求める。誰よりもオルカ装置の恐ろしさを知るマークは悪用される前に、一刻も早く怪獣を死滅させるように訴える。しかし、時すでに遅し。異変を察知したゴジラが姿を現した。さらに中国からモスラ、カリブの火山からラドン、南極大陸からキングギドラが目を覚まし、世界各地を怪獣が蹂躙。怪獣同士が覇権争いのバトルを繰り広げる中、誘拐されたエマとマディソン、そしてオルカ装置の奪還に向けてモナークは動き出す。",
+      "popularity": 174.178,
+      "poster_path": "/5nV4du1uUf6LPHP5Q6WpgWxDDGH.jpg",
+      "release_date": "2019-05-29",
+      "title": "ゴジラ キング・オブ・モンスターズ",
+      "video": false,
+      "vote_average": 6.681,
+      "vote_count": 5598
+    }
+  ],
+  "total_pages": 4,
+  "total_results": 61
+}
