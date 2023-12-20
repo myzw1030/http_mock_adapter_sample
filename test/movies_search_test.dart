@@ -19,7 +19,7 @@ void main() {
       apiClient = TmdbApiClient(dio);
     });
     // 映画データを返すことをテスト
-    test('fetchSearchMOviesItems returns movies data', () async {
+    test('fetchSearchMOviesItems moviesSearchData', () async {
       // スタブデータ
       final mockResponse = fixture('movies_search.json');
       // 呼び出されたときに、成功したレスポンスを返すように設定
@@ -32,10 +32,20 @@ void main() {
           'page': 1,
         },
       );
-      // 返された結果が MoviesSearchData型であることを検証
+      // APIクライアントを通じてデータを取得
       final result = await apiClient.fetchSearchMoviesItems('ゴジラ');
+      // 返された結果が MoviesSearchData型であることを検証
       expect(result, isA<MoviesSearchData>());
+      // レスポンスデータの検証
       expect(result.results, isNotEmpty);
+      for (var movie in result.results) {
+        expect(movie.id, isNotNull);
+        expect(movie.id, isA<int>());
+        expect(movie.title, isNotNull);
+        expect(movie.title, isA<String>());
+        expect(movie.posterPath, isNotNull);
+        expect(movie.posterPath, isA<String>());
+      }
     });
 
     // エラーケース
